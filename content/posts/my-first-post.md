@@ -29,4 +29,9 @@ cover:
     hidden: false # only hide on current single page
 ---
 # Third time?
-Yes
+Yes, this is my third time making a personal website. The first time was using plain HTML, CSS, and Javascript, then publishing it to github pages. The second time was using React.js with Material-UI, which can be seen [here](https://github.com/sebastianaldi17/React-Personal-Site). It used netlify to host static pages, and it worked pretty well until I decided to take down the website for several reasons:
+
+- I got a job as a software engineer, so I felt that I didn't need to advertise myself that much.
+- I wanted to make a blog, but at the time I didn't know how because I wanted to keep a folder full of markdown files that serve as blog content, but I can't get it to work without a backend iterating through the folder containing multiple markdown files.
+
+After a coworker decided to leave his current job, I decided that I need to be open to other options instead of just being satisfied in one place, so I wanted to remake a personal website, for the third time. The solution I decided to use was to use [hugo](https://gohugo.io/) to create static HTML files from markdown files. I used hugo because hugo used Go, which was already installed on my laptop (compared to using jekyll needing Ruby installed, but in retrospect this might have been way easier because github pages endorsed it).
