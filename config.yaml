@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: ***REMOVED***
 
 minify:
   disableXML: true
@@ -69,11 +69,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my blog, enjoy your stay
 
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/axynald/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sebastian-aldi-95863a187/"
     - name: github
       url: "https://github.com/sebastianaldi17"
 
@@ -91,7 +93,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/sebastianaldi17/sebastianaldi17.github.io/content"
+    URL: "https://github.com/sebastianaldi17/basblog/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -107,14 +109,23 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
+      weight: 10
+    - identifier: archive
+      name: archive
+      url: /archives/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
