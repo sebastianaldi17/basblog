@@ -1,4 +1,4 @@
-baseURL: "https://www.sebastianaldi17.github.io/"
+baseURL: "https://basblog.netlify.app/"
 title: BasBlog
 paginate: 5
 theme: PaperMod
