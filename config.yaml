@@ -3,6 +3,7 @@ title: BasBlog
 paginate: 5
 theme: PaperMod
 
+enableEmoji: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -69,7 +70,10 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog, enjoy your stay
+    Content: |
+      My name is Sebastian Aldi, and welcome to my blog.
+      
+      Nama saya Sebastian Aldi, dan selamat datang ke blog saya.
 
   socialIcons:
     - name: instagram
@@ -79,18 +83,10 @@ params:
     - name: github
       url: "https://github.com/sebastianaldi17"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/sebastianaldi17/basblog/blob/main/content"
@@ -107,20 +103,41 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 10
-    - identifier: archive
-      name: archive
-      url: /archives/
-      weight: 20
-    - identifier: search
-      name: search
-      url: /search/
-      weight: 30
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10
+        - identifier: archive
+          name: archive
+          url: /archives/
+          weight: 20
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 30
+  id:
+    languageName: "Indonesia"
+    weight: 2
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10
+        - identifier: archive
+          name: arsip
+          url: /archive/
+          weight: 20
+        - identifier: search
+          name: cari
+          url: /search/
+          weight: 30
 outputs:
     home:
         - HTML

@@ -1,9 +1,9 @@
 ---
 title: "My 1st post"
-date: 2020-09-15T11:30:03+07:00
+date: 2022-04-04T11:30:00+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["life"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -26,6 +26,6 @@ cover:
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
