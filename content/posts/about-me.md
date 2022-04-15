@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "thegang.jpg" # image path/url
+    image: "Images/AboutMe/thegang.jpg" # image path/url
     alt: "the gang" # alt text
     caption: "Me and the gang at ICPC Maranatha" # display caption under cover
     relative: false # when using page bundles set this to true
