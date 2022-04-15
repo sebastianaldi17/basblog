@@ -3,7 +3,7 @@ title: "My Wishlist"
 date: 2022-04-05T17:45:00+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["life", "shopping"]
+tags: ["shopping"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
