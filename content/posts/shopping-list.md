@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "When recieving your wage, remember the 50/30/20 rule."
+description: "When spending your wage, remember the 50/30/20 rule."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -30,63 +30,36 @@ cover:
 ---
 Prepare your bank account, let's go spend some money :money_with_wings:
 ![shopping gif](https://media.giphy.com/media/l3q2t2KAyvxy9xBe0/giphy-downsized.gif#center)
-
+***DISCLAIMERS:***
+- These are affiliate links, so if you do buy from these (for some reason), thank you.
+- **I DO NOT OWN ANY OF THESE ITEMS** (except the food ones, which I ate them before). Which is why they are in my shopping list.
 # Audio gear in general
-Speakers, Headphones, IEM, TWS, microphones, DAC/Amps go here 
-## Under Rp. 1.000.000 ($70)
-- Eartips from [here](https://www.tokopedia.com/audionstore) that costs between Rp. 75.000 - Rp. 200.000 / set... Eartips for IEMs have their rabbit hole :tired_face:
-![KZ ZEX Pro](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/1/14/c649bdc0-6b2f-450e-b92f-8365b3b57f96.jpg#center)
-- [KZ ZEX Pro](https://tokopedia.link/oJUd1SqXWob) Rp. 299.000 - Tuned by an audiophile that ranks a lot of IEMs. Like, a [lot](https://crinacle.com/rankings/iems/). There is some controversy regarding this IEM because it has three drivers (Magnetostatic + Balanced Armature + Dynamic Drivers), but due to bad engineering, only the dynamic driver is the one that outputs most of the sound. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/).
-![Tanchjim Tanya](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/5/2/91521109-83e5-48c7-a4d9-5bc78c611fd2.jpg#center)
-- [Tanchjim Tanya](https://tokopedia.link/IrY6ERbXWob) Rp. 320.000 - Uses a dynamic driver. Non-removable cables, which could be a dealbreaker for some.
-![Tripowin Lea](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/1/6/82bd2d8a-4d26-4cf0-9ca4-4a3e2ed91bc2.jpg#center)
-- [Tripowin Lea](https://tokopedia.link/Ccy8P1OWWob) Rp. 400.000 - Uses a Liquid Crystal Polymer Dynamic Driver, how fancy. Not much bass, with an emphasis on treble. 
-![Leviosa](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/2/8/33794094-7aa3-4857-b4e9-1c739f18c030.jpg#center)
-- [Fantech Leviosa](https://tokopedia.link/Siun965dXob) Rp.499.000 - USB microphone that sits at your desk. The common consensus is that rather than getting a gaming headset, people are better off getting a good headphone/IEM and getting a separate microphone. I'm still exploring my options.
-## Over Rp. 1.000.000
-![BTR5](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/10/24/02367f4e-af86-4361-a4a4-0878597bbaf7.jpg#center)
-- [Fiio BTR5](https://tokopedia.link/MIvWxRRcXob) Rp. 1.950.000 - By connecting any earphones/headphones to this device, it becomes wireless. There are cheaper alternatives to this, such as the Hidisz H2.
-![XM4](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/3/4/a30e02d7-556b-42ac-9b85-9e0fc6303fc7.jpg#center)
-- [Sony WH-1000XM4 Wireless noise-canceling Headphones](https://tokopedia.link/0p77wzPXWob) Rp. 3.749.000
-
-The mainstream king of active noise-canceling wireless headphones... I wonder if it is worth the price or not. Maybe the XM3 is also worth considering.
-![XM4TWS](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/3/9/abbe2d38-1163-46a5-9097-9057cc367d8a.jpg#center)
-- [Sony WF-1000XM4 True Wireless noise-canceling Headphones](https://tokopedia.link/ZI24yX3XWob) Rp. 3.499.000
-
-Mainstream TWS king, basically the WH-1000XM4 in TWS form. Again, they also have the XM3 for way cheaper, so maybe that is worth being considered.
+Speakers, Headphones, IEM, TWS, microphones, DAC/Amps go here. Frequency Response graphs should be available online, somewhere...
+|Product Name|Type|Price|Notes|
+|-|-|-|-|
+|[Eartips](https://www.tokopedia.com/audionstore)|Eartips for IEM/TWS|Rp. 75.000-200.000|Do these really impact sound?
+|[CCA CRA](https://tokopedia.link/IMSvSyfwUpb)|In-Ear Monitors|Rp. 209.000|A V-shaped IEM (bass and treble boosted)
+|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|In-Ear Monitors|Rp. 399.000|A neutral IEM
+|[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|In-Ear Monitors|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz.
+|[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand. Other alternatives that are similar in price include the Thronmax Pulse M8, Soundtech USB microphone, Costa CM-U100. Or maybe just use a condenser mic with phantom power (this uses another power outlet though).
+|[Moondrop Nekocake](https://tokopedia.link/0TEvquaAUpb)|True Wireless Stereo|Rp. 639.000|A TWS with active noise cancelling(ANC). Supposedly has very good audio, but bad ANC and battery life. Also, no transparency/passthrough mode.
+|[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
+|[1More ComfoBuds Pro](https://tokopedia.link/VqQ2uEOzUpb)|True Wireless Stereo|Rp. 1.099.000|A relatively good TWS with ANC under $100. The cheapest ANC TWS I had (before I gave it to my father) was the [Realme Buds Air 2 Neo](https://tokopedia.link/17UAWgXzUpb). It was decent.
 
 # Keyboard & accessories
-Mechanical keyboards, keycaps, switches, case, lube, foam go here
-## Under Rp. 1.000.000 ($70)
+Mechanical keyboards, keycaps, switches, case, lube, foam go here.
 - My go-to shop for mechanical keyboards and peripherals is [this shop](https://www.tokopedia.com/mechkeyboardsid/product), I like linear switches so I might research them more later.
 ![GT-8](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/3/27/ec340a4d-147a-4d66-aba8-3bfe0424e9c4.jpg#center)
-- [Vortexseries GT-8](https://tokopedia.link/qpnMxFuYWob) Rp. 780.000 - Hot-swappable, south-facing PCB, wireless, has a knob, includes foam. Such a shame it does not have a print screen key.
-## Over Rp. 1.000.000
-Honestly? I haven't thought about getting an expensive keyboard. There are keyboards out there that are expensive, but I don't think it's worth the price, especially if you see the cost of DROP keyboards or the Keychron Q series.
+- [Vortexseries GT-8](https://tokopedia.link/7KAmjQ0xUpb) Hot-swappable, south-facing PCB, wireless, has a knob, includes foam. Such a shame it does not have a print screen key. For extra money, you can get one that comes with JWK ultimate blacks. For less money, you can get a barebones version, but it is only a price difference of Rp. 60.000, compared to the ones with keycaps and outemu switches.
 
 # Tech
 Tech-related stuff (monitor, pc parts, cables, mice, smart wearables, VR headsets, and others) go here
-## Under Rp. 1.000.000 ($70)
 ![Paracontrol XL v2](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/12/30/8884a30f-2593-4bf5-8680-f3f5a13f30a6.jpg#center)
-- [Pulsar Paracontrol XL V2](https://tokopedia.link/mqqu5bDcXob) Rp. 389.000 46cm x 41cm mousepad, I prefer control mousepads because the games I play tend to have low time to kill.
-![Delux M800](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/6/23/80ff7b8b-dd8d-4e49-9f31-1f622a3d51f2.jpg#center)
-- [Delux M800](https://tokopedia.link/Or3LdyV1Wob) Rp. 369.000 & weighs 70 grams - A wireless Razer Viper Mini ripoff which is pretty good, but do note that there are two versions of this mouse with different sensors:
-    - The one I linked uses a Pixart PAW3335, which is better but has a lift-off distance (LOD) issue which could be fixed using software
-    - The other one uses a PAW3325, which has no LOD issue but is worse than the PAW3335 version
-![Icarus](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/10/24/38213293-0d8f-45d7-af12-8b6b2f5b8d40.jpg#center)
-- [Press Play Icarus](https://tokopedia.link/QI29SEo2Wob) Rp. 489.000 & weighs 77 grams - A mouse from an Indonesian brand that looks good on paper, can't comment much because I don't have it. Uses a Pixart PAW3338 sensor.
-![XD5](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/10/16/1cbd238e-59da-4f88-958f-c865c177e37c.jpg#center)
-- [Fantech Helios XD5](https://tokopedia.link/0Zae29F2Wob) Rp. 659.000 & weighs 72 grams - Another Indonesian brand mouse, but this one is shaped for ergonomics & uses a Pixart PAW3370.
-![Daxa Air II](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/3/5/ca890a64-395f-4bb2-87a6-f27405e54f08.jpg#center)
-- [Rexus Daxa Air II](https://tokopedia.link/RPcPIr6mYob) Rp. 659.000 & weighs 77 grams - Another Indonesian brand mouse that has a honeycomb cover if that is what you enjoy. Comes in many colors. 
-
-## Over Rp. 1.000.000
-![LG 24GN600-B](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/7/16/3fda50c1-dd77-43b0-ab25-fc8a11e9da61.jpg#center)
-- [LG 24GN600-B 144hz IPS](https://tokopedia.link/5g82NT82Wob) Rp. 2.799.000 - It doesn't have to be this monitor, I'm just looking for a monitor that has an IPS panel and is 144hz.
-![G Pro X Superlight](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/2/22/559e3e80-78a4-468c-a5c2-795d9fa17e10.jpg#center)
-- [Logitech G Pro X Superlight](https://tokopedia.link/MuBfEPm3Wob) Rp. 1.889.000 & weighs under 63 grams - Probably the most cliche mouse that everyone wants, including me...
+- [Pulsar Paracontrol XL V2](https://tokopedia.link/7Erxw9byUpb) Rp. 389.000 46cm x 41cm mousepad, I prefer control mousepads because the games I play tend to have low time to kill.
+- [Rexus Daxa Air II](https://tokopedia.link/5rCHbqlyUpb) Rp. 659.000 & weighs 77 grams - Indonesian brand mouse that has a honeycomb cover if that is what you enjoy. Comes in many colors. An updated version is [here](https://tokopedia.link/q8YJhghyUpb), weighs 64 grams and costs Rp. 759.000.
+- A 144Hz monitor, or an ultrawide monitor. An ultrawide 144Hz monitor is extremely expensive though.
 ![Quest2](https://images.tokopedia.net/img/cache/300/product-1/2020/9/17/2016579/2016579_a1ae4d30-8fda-4ebd-b278-75aaffd7cb06_2000_2000#center)
-- [Oculus Quest 2](https://tokopedia.link/URNpeUJdXob) Rp. 5.045.000 - As I said in my first post, I like rhythm games. To experience beat saber, I need to get a VR kit that uses a computer or get a standalone VR console like the Oculus Quest 2. Other alternatives should be welcome if I can find them.
+- [Oculus Quest 2](https://tokopedia.link/J77v2DwyUpb) Rp. 5.045.000 - As I said in my first post, I like rhythm games. To experience beat saber, I need to get a VR kit that uses a computer or get a standalone VR console like the Oculus Quest 2. Other alternatives should be welcome if I can find them.
 - I'm planning on getting a PC later once the price of graphics cards settles down, or when AMD's RDNA 2 integrated graphics chipset arrives (probably late 2022, but no rumors as of writing)
 
 # Food
@@ -97,8 +70,7 @@ Tech-related stuff (monitor, pc parts, cables, mice, smart wearables, VR headset
 
 # Miscellaneous
 Other stuff that is not related to tech (office chair, weighted blanket, pillows) go here
-- I wanted a nice office chair that won't break the bank (Herman Millers are crazy expensive). The only thing I know I want is probably a headrest. These three maybe are what I'm looking for, but purchasing chairs online is a hit or miss. I might need to check out my local Informa or IKEA to try their chairs.
-  - https://tokopedia.link/qr2T1NTeXob
-  - https://tokopedia.link/FUrHoiUeXob
-  - https://tokopedia.link/SfFOoHUeXob
-- [Weighted blankets](https://tokopedia.link/0uIu7uZeXob). They claim to help people sleep, and I think it would be nice to have.
+- I wanted a nice office chair that won't break the bank (Herman Millers are crazy expensive). The only thing I know I want is probably a headrest. Purchasing chairs online is a hit or miss, so I think I prefer checking out my local Informa or IKEA to try their chairs.
+- [Weighted blankets](https://tokopedia.link/0uIu7uZeXob). They claim to help people sleep, and I think it would be nice to have. I tried sleep sprays but didn't notice much of a difference in my quality of sleep tbh.
+- [Genki book](https://tokopedia.link/R90uKtczUpb) - I have no idea why a lot of people recommended this book for beginners. Maybe it's like a book for elementary kids to learn English, but this one is Japanese?
+- [Japanese Kanji Made Easy](https://tokopedia.link/T0pHy6IyUpb) - A book of 1000 kanji for N5 up to N2. There might be cheaper ones out there, because the one I found on Amazon was $14. Then again, customs are a thing...
