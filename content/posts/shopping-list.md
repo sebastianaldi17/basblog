@@ -59,7 +59,7 @@ In this section I will explain all acronyms/terms, so that readers (including my
     - Linear: Responds faster, but has no feedback if a key is registered.
     ![Red](https://cdn-blog.adafruit.com/uploads/2016/09/Red.gif#center)
     - Tactile: Has a noticeable bump when a key is pressed.
-    ![Brown](http://mech-keyboards.weebly.com/uploads/4/9/7/4/49743797/7458259_orig.gif#center)
+    ![Brown](https://mech-keyboards.weebly.com/uploads/4/9/7/4/49743797/7458259_orig.gif#center)
     - Clicky: When a key is registered into the computer, there will be a loud CLICK. This will drive anyone in the same room as you crazy.
     ![Blue](https://www.keyboardco.com/blog/wp-content/uploads/2012/10/Blue.gif#center)
 - Hot-swappable: A feature where keyboard switches can be removed without desoldering them. There are two types of hot-swappable, 3 pin and 5 pin. Hot-swappable keyboards that support 5 pin will support 3 pin, but not vice versa. If you have a hot-swappable keyboard that only supports 3 pin, you can clip the plastic legs on the 5 pin switch.
