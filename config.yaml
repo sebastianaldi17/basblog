@@ -76,7 +76,7 @@ params:
     - name: hackerrank
       url: https://www.hackerrank.com/sebastian_aldi17
     - name: instagram
-      url: "https://www.instagram.com/axynald/"
+      url: "https://www.instagram.com/bas_or_aldi/"
     - name: linkedin
       url: "https://www.linkedin.com/in/sebastian-aldi-95863a187/"
     - name: github
@@ -105,26 +105,22 @@ params:
 
 menu:
   main:
-    - identifier: aboutme
-      name: about me
-      url: /posts/about-me/
-      weight: 1
     - identifier: wishlist
       name: wishlist
       url: /posts/shopping-list/
-      weight: 2
+      weight: 1
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 10
+      weight: 2
     - identifier: archive
       name: archive
       url: /archives/
-      weight: 20
+      weight: 10
     - identifier: search
       name: search
       url: /search/
-      weight: 30
+      weight: 20
 
 outputs:
     home:
