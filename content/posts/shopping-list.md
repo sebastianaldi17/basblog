@@ -23,8 +23,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
     image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "shop ping" # alt text
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
@@ -32,6 +31,7 @@ Prepare your bank account, let's go spend some money :money_with_wings:
 ![shopping gif](https://media.giphy.com/media/l3q2t2KAyvxy9xBe0/giphy-downsized.gif#center)
 ***DISCLAIMERS:***
 - These are affiliate links, so if you do buy from these (for some reason), thank you.
+- Items that I own are not going to be at this page. They might be at ["My recommendations (WIP)"](/posts/my-recommendations/) if I think they're good.
 - **I DO NOT OWN ANY OF THESE ITEMS** (except the food ones, which I ate them before). Which is why they are in my shopping list.
 
 # Glossary
@@ -74,17 +74,22 @@ In this section I will explain all acronyms/terms, so that readers (including my
 
 # Audio gear in general
 <!--FR COMPARE TOOLS HERE https://forum.hifiguides.com/t/iem-graph-comparison-tool/22730-->
-<!--TODO add blon bl03, moondrop aria, dunu titan s, tinhifi t3 plus-->
+There is fun in enjoying new products, even though you might already have a different product that does the thing you needed. For example, there are going to be many IEMs below, even though you can use EQ(equalizer) to have different sound signatures.
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
 |[Eartips](https://www.tokopedia.com/audionstore)|Eartips|Rp. 75.000-200.000|Do these really impact sound?
-|[CCA CRA](https://tokopedia.link/IMSvSyfwUpb)|IEM|Rp. 209.000|A V-shaped IEM (bass and treble boosted)
-|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM
 |[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz.
+|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand. Other alternatives that are similar in price include the Thronmax Pulse M8, Soundtech USB microphone, Costa CM-U100. Or maybe just use a condenser mic with phantom power (this uses another power outlet though).
 |[Moondrop Nekocake](https://tokopedia.link/0TEvquaAUpb)|TWS|Rp. 639.000|A TWS with active noise cancelling(ANC). Supposedly has very good audio, but bad ANC and battery life. Also, no transparency/passthrough mode.
 |[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
 |[1More ComfoBuds Pro](https://tokopedia.link/VqQ2uEOzUpb)|TWS|Rp. 1.099.000|A relatively good TWS with ANC under $100. The cheapest ANC TWS I had (before I gave it to my father) was the [Realme Buds Air 2 Neo](https://tokopedia.link/17UAWgXzUpb). It was decent.
+|[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
+|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion.
+|[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
+|[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz timeless (see below), but with more treble (v-shaped?)
+|[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design.
+
 
 # Keyboard & accessories
 Mechanical keyboards, keycaps, switches, case, lube, foam go here.
