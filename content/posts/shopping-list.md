@@ -31,7 +31,7 @@ Prepare your bank account, let's go spend some money :money_with_wings:
 ![shopping gif](https://media.giphy.com/media/l3q2t2KAyvxy9xBe0/giphy-downsized.gif#center)
 ***DISCLAIMERS:***
 - These are affiliate links, so if you do buy from these (for some reason), thank you.
-- Items that I own are not going to be at this page. They might be at ["My recommendations (WIP)"](/posts/my-recommendations/) if I think they're good.
+- Items that I own are not going to be at this page. They might be at ["My recommendations"](/posts/my-recommendations/) if I think they're good.
 - **I DO NOT OWN ANY OF THESE ITEMS** (except the food ones, which I ate them before). Which is why they are in my shopping list.
 
 # Glossary
@@ -77,18 +77,17 @@ In this section I will explain all acronyms/terms, so that readers (including my
 There is fun in enjoying new products, even though you might already have a different product that does the thing you needed. For example, there are going to be many IEMs below, even though you can use EQ(equalizer) to have different sound signatures.
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
-|[Eartips](https://www.tokopedia.com/audionstore)|Eartips|Rp. 75.000-200.000|Do these really impact sound?
-|[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz.
-|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM
+|[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz which could be a dealbreaker for some.
+|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM with removable cable, unlike the Moondrop Chu.
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand. Other alternatives that are similar in price include the Thronmax Pulse M8, Soundtech USB microphone, Costa CM-U100. Or maybe just use a condenser mic with phantom power (this uses another power outlet though).
-|[Moondrop Nekocake](https://tokopedia.link/0TEvquaAUpb)|TWS|Rp. 639.000|A TWS with active noise cancelling(ANC). Supposedly has very good audio, but bad ANC and battery life. Also, no transparency/passthrough mode.
 |[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
-|[1More ComfoBuds Pro](https://tokopedia.link/VqQ2uEOzUpb)|TWS|Rp. 1.099.000|A relatively good TWS with ANC under $100. The cheapest ANC TWS I had (before I gave it to my father) was the [Realme Buds Air 2 Neo](https://tokopedia.link/17UAWgXzUpb). It was decent.
+[Realme Buds Air 2 Neo](https://tokopedia.link/17UAWgXzUpb). It was decent.
 |[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
-|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion.
+|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
 |[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
-|[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz timeless (see below), but with more treble (v-shaped?)
-|[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design.
+|[7Hz Salnotes Dioko](https://tokopedia.link/WWELW38harb)|Planar IEM|Rp. 1.550.000|Probably the cheapest planar IEM, and it is a collab with Crinacle (just like the KZ ZEX Pro). I hope it doesn't have the 8k peak...
+|[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz Timeless, but with more treble (v-shaped?)
+|[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design. Hailed as one of the best planar IEMs.
 
 
 # Keyboard & accessories
@@ -99,8 +98,6 @@ Mechanical keyboards, keycaps, switches, case, lube, foam go here.
 
 # Tech
 Tech-related stuff (monitor, PC parts, cables, mice, smart wearables, VR headsets, and others) go here
-![Paracontrol XL v2](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/12/30/8884a30f-2593-4bf5-8680-f3f5a13f30a6.jpg#center)
-- [Pulsar Paracontrol XL V2](https://tokopedia.link/7Erxw9byUpb) Rp. 389.000 46cm x 41cm mousepad, I prefer control mousepads because the games I play tend to have low time to kill.
 - [Rexus Daxa Air IV](https://tokopedia.link/q8YJhghyUpb) Rp. 759.000 & weighs 64 grams - Indonesian brand mouse that has a holed pattern cover if that is what you enjoy. Comes in many colors.
 - A 144Hz monitor, or an ultrawide monitor. An ultrawide 144Hz monitor is extremely expensive though.
 ![Quest2](https://images.tokopedia.net/img/cache/300/product-1/2020/9/17/2016579/2016579_a1ae4d30-8fda-4ebd-b278-75aaffd7cb06_2000_2000#center)
