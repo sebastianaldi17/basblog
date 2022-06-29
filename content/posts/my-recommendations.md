@@ -99,8 +99,18 @@ A cheap version of the Steelseries Arctis 1 wireless, for half the price, made b
 Basically a Rexus Daxa M84, which itself is a Royal Kludge RK84. The difference is that these come with custom PBT dye-sublimated keycaps. My first true hot swappable keyboard, I lubed it and added foam myself. Although to be honest, I think I would prefer the Vortexseries GT-8 with the bigger keyboard, audio based RBG, and a knob (it is fun to spin this, after all I was a Sound Voltex player). I bought these at August 2021, so the GT-8 wasn't out yet at that time, and the Noir N2 Pro was out of stock, sad.
 
 ## Mouse
+### Logitech G304
+![G304](https://ae01.alicdn.com/kf/HTB1WQR2EgaTBuNjSszfq6xgfpXaj/2018-Terbaru-Logitech-G304-LIGHTSPEED-Gaming-Mouse-dengan-Sensor-HERO-12000Dpi-400ips-Baterai-AA-Wireless-Mouse.jpg_Q90.jpg_.webp#center)
+[Link](https://tokopedia.link/QxYGRSMefrb) | Rp. 485.000
 
+A wireless mouse that uses a single AA battery. I bought this on August 2019 and it still serves me well. Essentially a wireless version of the G102. You can make this mouse lighter by using an AAA to AA battery adapter, and/or 3D print a honeycomb case for your palm. I can attest for the longevity of this mouse, because 3 years and I have yet to encounter issues. If you prefer 
+a wireless mouse that can be recharged, get a rechargeable battery and it will last way longer than any other rechargable mice. You also don't have to worry about the internal battery dying.
 
+### Razer Viper Mini
+![RVM](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/18/d51ad51c-a1c2-4b5e-84bc-3102291ef3bd.jpg#center)
+[Link](https://tokopedia.link/IIe6b3kffrb) | Rp. 400.000
+
+The only thing I can attest is that the shape is more comfortable than my G304, and the cable is nice. I hate Razer Synapse, but that software is optional if you don't want to configure the mouse.
 
 ## Dishonorable mentions
 These are what I had bought, but **will definitely not repurchase**.

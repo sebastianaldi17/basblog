@@ -77,11 +77,16 @@ In this section I will explain all acronyms/terms, so that readers (including my
 There is fun in enjoying new products, even though you might already have a different product that does the thing you needed. For example, there are going to be many IEMs below, even though you can use EQ(equalizer) to have different sound signatures.
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
+|[AZLA SednaEarfit Crystal for TWS](https://tokopedia.link/DULyBQhefrb)|TWS Eartips|Rp.199.000|A potentially good eartip for my Edifier Neobuds pro. Claims to have good noise isolation.
 |[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz which could be a dealbreaker for some.
 |[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM with removable cable, unlike the Moondrop Chu.
-|[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand. Other alternatives that are similar in price include the Thronmax Pulse M8, Soundtech USB microphone, Costa CM-U100. Or maybe just use a condenser mic with phantom power (this uses another power outlet though).
+|[TaffSTUDIO UD-900FX](https://tokopedia.link/jYRw21Zefrb)|USB microphone|Rp. 160.000|A cheap condenser USB microphone that was used by my senior. Has good sound and is loud enough without phantom power.
+|[Costa CM-U100](https://tokopedia.link/67JJjB1ffrb)|USB microphone|Rp. 365.000| A USB microphone that exists.
+|[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that a different senior of mine used. Seems like it comes with a desk clip for the mic.
+|[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
+|[Soundtech 2.1 USB Condenser Microphone](https://tokopedia.link/TyrqRQ2ffrb)|Rp. 499.000| A USB microphone that exists.
+|[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand.
 |[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
-[Realme Buds Air 2 Neo](https://tokopedia.link/17UAWgXzUpb). It was decent.
 |[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
 |[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
 |[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
@@ -98,7 +103,9 @@ Mechanical keyboards, keycaps, switches, case, lube, foam go here.
 
 # Tech
 Tech-related stuff (monitor, PC parts, cables, mice, smart wearables, VR headsets, and others) go here
+![Daxa Air IV](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/27/3d2e5f02-7540-4774-8117-80f4a47c9f42.jpg#center)
 - [Rexus Daxa Air IV](https://tokopedia.link/q8YJhghyUpb) Rp. 759.000 & weighs 64 grams - Indonesian brand mouse that has a holed pattern cover if that is what you enjoy. Comes in many colors.
+![LG Ultrawide](https://www.lg.com/id/images/monitor/md06099296/gallery/34WK500-P_Monitor_Seri21_9_D1.jpg#center)
 - A 144Hz monitor, or an ultrawide monitor. An ultrawide 144Hz monitor is extremely expensive though.
 ![Quest2](https://images.tokopedia.net/img/cache/300/product-1/2020/9/17/2016579/2016579_a1ae4d30-8fda-4ebd-b278-75aaffd7cb06_2000_2000#center)
 - [Oculus Quest 2](https://tokopedia.link/J77v2DwyUpb) Rp. 5.045.000 - As I said in my first post, I like rhythm games. To experience beat saber, I need to get a VR kit that uses a computer or get a standalone VR console like the Oculus Quest 2. Other alternatives should be welcome if I can find them.
@@ -108,7 +115,7 @@ Tech-related stuff (monitor, PC parts, cables, mice, smart wearables, VR headset
 ![Oven cooked white potato chips](https://images.tokopedia.net/img/cache/300/product-1/2020/6/16/98869546/98869546_8eca1dfe-9bf2-48f9-a197-5484a66ae017_1000_1000#center)
 - White potato chips are a guilty pleasure of mine. Costs Rp. 20.000 / 100 grams.
 ![cookies](https://images.tokopedia.net/img/cache/300/VqbcmM/2021/10/6/446d01d9-09c1-4cee-9cf9-4ec54a8ab2e9.jpg#center)
-- [Endorphins cookies](https://tokopedia.link/sJvj4XP3Wob), my superior once got these for me and I loved the taste.
+- [Endorphins cookies](https://tokopedia.link/sJvj4XP3Wob), my supervisor once got these for me and I loved the taste.
 
 # Miscellaneous
 Other stuff that is not related to tech (office chair, weighted blanket, pillows) go here
