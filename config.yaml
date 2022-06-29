@@ -109,8 +109,8 @@ menu:
       name: wishlist
       url: /posts/shopping-list/
       weight: 1
-    - identifier: recommendations
-      name: recommendations
+    - identifier: good stuff
+      name: good stuff
       url: /posts/my-recommendations/
       weight: 2
     - identifier: tags
