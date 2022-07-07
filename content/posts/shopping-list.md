@@ -78,7 +78,6 @@ There is fun in enjoying new products, even though you might already have a diff
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
 |[AZLA SednaEarfit Crystal for TWS](https://tokopedia.link/DULyBQhefrb)|TWS Eartips|Rp.199.000|A potentially good eartip for my Edifier Neobuds pro. Claims to have good noise isolation.
-|[TaffSTUDIO UD-900FX](https://tokopedia.link/jYRw21Zefrb)|USB microphone|Rp. 160.000|A cheap condenser USB microphone that was used by my senior. Has good sound and is loud enough without phantom power.
 |[Costa CM-U100](https://tokopedia.link/67JJjB1ffrb)|USB microphone|Rp. 365.000| A USB microphone that exists.
 |[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that a different senior of mine used. Seems like it comes with a desk clip for the mic.
 |[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
