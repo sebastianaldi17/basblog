@@ -89,7 +89,8 @@ There is fun in enjoying new products, even though you might already have a diff
 |[Sennheiser HD560S](https://tokopedia.link/x4iirLeYkrb)|Open back Headphones|Rp. 3.499.000|Audiophile grade headphones, one step before the Hugh Duhs Six Hundos by Old Mate Senn
 |[Sennheiser HD6xx](https://tokopedia.link/uxoDDqcYkrb)|Open back Headphones|Rp. 4.650.000|HUGH DUHS SIX HUNDOS BY SENN but it's a collab with drop and cheaper than the original
 |[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz which could be a dealbreaker for some.
-|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM with removable cable, unlike the Moondrop Chu.
+|[7Hz Salnotes Zero](https://tokopedia.link/OMHp26uf5rb)|IEM|Rp. 345.000|A neutral IEM with removable cable, unlike the Moondrop Chu. Tuning is very similar. This is a newer release than the Lea, so take your pick (design wise I prefer this one tbh)
+|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM with removable cable, unlike the Moondrop Chu. People say the stock cable is garbage, but I don't have this so I can't comment much.
 |[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
 |[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
 |[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
@@ -100,9 +101,7 @@ There is fun in enjoying new products, even though you might already have a diff
 
 # Keyboard & accessories
 Mechanical keyboards, keycaps, switches, case, lube, foam go here.
-- My go-to shop for mechanical keyboards and peripherals is [this shop](https://www.tokopedia.com/mechkeyboardsid/product), I like linear switches so I might research them more later.
-![GT-8](https://images.tokopedia.net/img/cache/300/VqbcmM/2022/3/27/ec340a4d-147a-4d66-aba8-3bfe0424e9c4.jpg#center)
-- [Vortexseries GT-8](https://tokopedia.link/7KAmjQ0xUpb) Hot-swappable, south-facing PCB, wireless, has a knob, includes foam. Such a shame it does not have a print screen key. For extra money, you can get one that comes with JWK ultimate blacks. For less money, you can get a barebones version, but it is only a price difference of Rp. 60.000, compared to the ones with keycaps and outemu switches.
+- My go-to shop for mechanical keyboards and peripherals is [this shop](https://www.tokopedia.com/mechkeyboardsid/product)
 ![N2 Pro](https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/18/2ec97c84-b424-4d20-aec4-99845d6033e7.jpg#center)
 - [Noir Gear N2 Pro](https://tokopedia.link/WFywz8z0krb) Finally, a good pre-built TKL mechanical keyboard. A rare commodity since most of them kept doing boards without f1-f12, or with cramped arrow keys (which sucks as a coder).
 
