@@ -78,39 +78,49 @@ There is fun in enjoying new products, even though you might already have a diff
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
 |[AZLA SednaEarfit Crystal for TWS](https://tokopedia.link/DULyBQhefrb)|TWS Eartips|Rp.199.000|A potentially good eartip for my Edifier Neobuds pro. Claims to have good noise isolation.
-|[Costa CM-U100](https://tokopedia.link/67JJjB1ffrb)|USB microphone|Rp. 365.000| A USB microphone that exists.
-|[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that a different senior of mine used. Seems like it comes with a desk clip for the mic.
+|[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that one of my seniorsused. Seems like it comes with a desk clip for the mic.
 |[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
-|[Soundtech 2.1 USB Condenser Microphone](https://tokopedia.link/TyrqRQ2ffrb)|USB microphone|Rp. 499.000| A USB microphone that exists.
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand.
 |[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
 |[Koss KSC75](https://tokopedia.link/exsrbsjYkrb)|On Ear Headphones|Rp. 599.000| I thought this costed 15-20 bucks? Anyway this was recommended by many people, even Crinacle designated it as B-.
 |[Philips SHP9500](https://tokopedia.link/MjWj1WgYkrb)|Open back Headphones|Rp. 1.299.000|One of the best open back headphones under 100 bucks?
+|[Audio Technica ATH-M40x](https://tokopedia.link/cDrYAqszssb)|Closed back Headphones|Rp. 1.349.000|It's Audio Technica, it should be good. The ATH-M50X is also available for 2 mil, but I don't really know the difference besides in price. Some say the hinge is pretty fragile though.
+|[Shure SRH440](https://tokopedia.link/Ff2PtTRzssb)|Closed back Headphones|Rp. 2.499.000|It's Shure, it should be good. Sound signature should be Harman-ish.
+|[Beyerdynamic DT770](https://tokopedia.link/Y3waJTEzssb)|Closed back Headphones|Rp. 2.950.000|A closed back headphone recommended by many people.
 |[Sennheiser HD560S](https://tokopedia.link/x4iirLeYkrb)|Open back Headphones|Rp. 3.499.000|Audiophile grade headphones, one step before the Hugh Duhs Six Hundos by Old Mate Senn
 |[Sennheiser HD6xx](https://tokopedia.link/uxoDDqcYkrb)|Open back Headphones|Rp. 4.650.000|HUGH DUHS SIX HUNDOS BY SENN but it's a collab with drop and cheaper than the original
-|[KZ ZEX Pro / CRN](https://tokopedia.link/Ab4livMwUpb)|IEM|Rp.299.000|A triple driver neutral IEM, but most of the sound comes from the dynamic driver. Read more [here](https://crinacle.com/2022/03/07/the-crn-kz-situation/). Also, there is a volume spike on 8k Hz which could be a dealbreaker for some.
-|[7Hz Salnotes Zero](https://tokopedia.link/OMHp26uf5rb)|IEM|Rp. 345.000|A neutral IEM with removable cable, unlike the Moondrop Chu. Tuning is very similar. This is a newer release than the Lea, so take your pick (design wise I prefer this one tbh)
-|[Tripowin Lea](https://tokopedia.link/nS4PLtzwUpb)|IEM|Rp. 399.000|A neutral IEM with removable cable, unlike the Moondrop Chu. People say the stock cable is garbage, but I don't have this so I can't comment much.
-|[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
-|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
-|[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
-|[7Hz Salnotes Dioko](https://tokopedia.link/WWELW38harb)|Planar IEM|Rp. 1.550.000|Probably the cheapest planar IEM, and it is a collab with Crinacle (just like the KZ ZEX Pro). I hope it doesn't have the 8k peak...
+|[Blon BL-03](https://tokopedia.link/LCd2zh8Assb)|1DD IEM|Rp. 299.000|Probably the cheapest (but still agreed to be good) bassy IEM. Called as "top of the line (TOTL) tuning" by HBB/BGGAR.
+|[Tripowin x HBB Mele](https://tokopedia.link/c6d7SH3Assb)|1DD IEM|Rp. 710.000|A bassy IEM that is a collab with HBB/BGGAR. He really likes his bass, and doesn't like treble. Incidentally, this is his cheapest collab as of writing (but the HBB maka is coming soon)
+|[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|1DD IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
+|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|1DD IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
+|[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|1DD IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
+|[7Hz Salnotes Dioko](https://tokopedia.link/WWELW38harb)|Planar IEM|Rp. 1.550.000|As of writing, is the cheapest planar IEM, and it is a collab with Crinacle (IEMphile youtuber)
 |[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz Timeless, but with more treble (v-shaped?)
 |[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design. Hailed as one of the best planar IEMs.
+|[Xenns Mangird Tea 2](https://tokopedia.link/YSHPCq3nssb)|1DD 6BA IEM|Rp. 4.849.000|An amazing IEM that is endorsed by Gizaudio, HBB/BGGAR, and has a cult following. Sound signature is bassy, no treble shout.
 
 
 # Keyboard & accessories
 Mechanical keyboards, keycaps, switches, case, lube, foam go here.
-- My go-to shop for mechanical keyboards and peripherals is [this shop](https://www.tokopedia.com/mechkeyboardsid/product)
+![NK Cream](https://cf.shopee.co.id/file/026ef92e715792d6f7b333fe81fdd351#center)
+- [Kailh x NovelKeys Cream](https://tokopedia.link/3UVSLmjAssb) Supposedly the best sounding linear switches. Very expensive, for almost $1 per switch.
+![Keycaps](https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/12/b40c0ee0-7152-43a9-9f34-9351fc8fd015.jpg#center)
+- [Noir Ocean Keycaps](https://tokopedia.link/vsirY0eAssb) For those of you not in the know, I am now using a Vortexseries GT-8 with Jwick ultimate black switches, but my keycaps are currently the stock black ABS ones. I'm currently looking for keycaps, and these look pretty dope.
 ![N2 Pro](https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/18/2ec97c84-b424-4d20-aec4-99845d6033e7.jpg#center)
 - [Noir Gear N2 Pro](https://tokopedia.link/WFywz8z0krb) Finally, a good pre-built TKL mechanical keyboard. A rare commodity since most of them kept doing boards without f1-f12, or with cramped arrow keys (which sucks as a coder).
 
 # Tech
 Tech-related stuff (monitor, PC parts, cables, mice, smart wearables, VR headsets, and others) go here
+![M800](https://www.deluxworld.com/uploads/admin/image/20210617/pro-det02.png#center)
+- [Delux M800](https://tokopedia.link/25QgOvDAssb) Rp. 495.000, PAW3335, a Razer Viper Ultimate ripoff for way cheaper.
+![IMM6](https://www.daytonaudio.com/images/product/large/1117_3_.jpg#center)
+- [Dayton IMM6](https://tokopedia.link/WvG2i6JAssb) A spectrum analyzer for analyzing frequency response. Seems pretty interesting to measure an IEM by yourself.
 ![Daxa Air IV](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/27/3d2e5f02-7540-4774-8117-80f4a47c9f42.jpg#center)
 - [Rexus Daxa Air IV](https://tokopedia.link/q8YJhghyUpb) Rp. 759.000 & weighs 64 grams - Indonesian brand mouse that has a holed pattern cover if that is what you enjoy. Comes in many colors.
-![LG Ultrawide](https://www.lg.com/id/images/monitor/md06099296/gallery/34WK500-P_Monitor_Seri21_9_D1.jpg#center)
-- A 144Hz monitor, or an ultrawide monitor. An ultrawide 144Hz monitor is extremely expensive though.
+![mini](https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/16/a838b0fe-a931-498e-8cd3-77a6af25275c.jpg)
+- [SDVX mini controller](https://tokopedia.link/Bn8lnP9Assb) I used to play Sound Voltex a lot, but I rarely play it now because the nearest arcade that has Sound Voltex is like 16.5km away. This is a mini controller, that can be used with either Sound Voltex cloud or K-Shoot Mania
+![big](https://images.tokopedia.net/img/cache/900/VqbcmM/2021/5/23/389a65a4-54db-4b0c-9c75-5981b97c19b7.jpg#center)
+- [SDVX entry level controller](https://tokopedia.link/AO8pvxjBssb) Another Sound Voltex controller that is bigger. The size is accurate to the ones at the arcade.
 ![Quest2](https://images.tokopedia.net/img/cache/300/product-1/2020/9/17/2016579/2016579_a1ae4d30-8fda-4ebd-b278-75aaffd7cb06_2000_2000#center)
 - [Oculus Quest 2](https://tokopedia.link/J77v2DwyUpb) Rp. 5.045.000 - As I said in my first post, I like rhythm games. To experience beat saber, I need to get a VR kit that uses a computer or get a standalone VR console like the Oculus Quest 2. Other alternatives should be welcome if I can find them.
 - I'm planning on getting a PC later once the price of graphics cards settles down, or when AMD's RDNA 2 integrated graphics chipset arrives (probably late 2022, but no rumors as of writing)
