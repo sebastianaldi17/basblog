@@ -94,7 +94,6 @@ There is fun in enjoying new products, even though you might already have a diff
 |[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|1DD IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
 |[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|1DD IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
 |[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|1DD IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
-|[7Hz Salnotes Dioko](https://tokopedia.link/WWELW38harb)|Planar IEM|Rp. 1.550.000|As of writing, is the cheapest planar IEM, and it is a collab with Crinacle (IEMphile youtuber)
 |[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz Timeless, but with more treble (v-shaped?)
 |[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design. Hailed as one of the best planar IEMs.
 |[Xenns Mangird Tea 2](https://tokopedia.link/YSHPCq3nssb)|1DD 6BA IEM|Rp. 4.849.000|An amazing IEM that is endorsed by Gizaudio, HBB/BGGAR, and has a cult following. Sound signature is bassy, no treble shout.
@@ -104,8 +103,6 @@ There is fun in enjoying new products, even though you might already have a diff
 Mechanical keyboards, keycaps, switches, case, lube, foam go here.
 ![NK Cream](https://cf.shopee.co.id/file/026ef92e715792d6f7b333fe81fdd351#center)
 - [Kailh x NovelKeys Cream](https://tokopedia.link/3UVSLmjAssb) Supposedly the best sounding linear switches. Very expensive, for almost $1 per switch.
-![Keycaps](https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/12/b40c0ee0-7152-43a9-9f34-9351fc8fd015.jpg#center)
-- [Noir Ocean Keycaps](https://tokopedia.link/vsirY0eAssb) For those of you not in the know, I am now using a Vortexseries GT-8 with Jwick ultimate black switches, but my keycaps are currently the stock black ABS ones. I'm currently looking for keycaps, and these look pretty dope.
 ![N2 Pro](https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/18/2ec97c84-b424-4d20-aec4-99845d6033e7.jpg#center)
 - [Noir Gear N2 Pro](https://tokopedia.link/WFywz8z0krb) Finally, a good pre-built TKL mechanical keyboard. A rare commodity since most of them kept doing boards without f1-f12, or with cramped arrow keys (which sucks as a coder).
 
