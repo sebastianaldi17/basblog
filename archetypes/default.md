@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
-date: 2022-04-04T11:30:00+07:00
+title: "My 1st post" # change this
+date: 2022-12-02T11:30:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
 # weight: 1
 # aliases: ["/first"]
-tags: ["life"]
+tags: ["life"] # change this
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Desc Text." # change this
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

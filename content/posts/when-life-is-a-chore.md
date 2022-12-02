@@ -3,7 +3,7 @@ title: "When Life Is a Chore"
 date: 2022-05-28T12:25:00+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["life"]
+tags: ["life", "thoughts"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -55,8 +55,6 @@ These are a list of things that you are expected to do in order to become exempl
 - Have many connections with people, and leverage them when needed
 - Have side hustles to generate additional income on top of your job
 - Invest your money wisely, do research on the market, keep up with the latest news
-
-![this is so me lmao](https://scontent.fcgk30-1.fna.fbcdn.net/v/t1.18169-9/18301814_10155623229656840_8785401208204091528_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=110&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=KJv7YwDFSikAX9y_HH3&_nc_ht=scontent.fcgk30-1.fna&oh=00_AT-BdjPy2vzEOrTCSxuEYCqSx1CtVnC2Obr6_QGAPkdfzQ&oe=62B6E83F#center)
 
 There is no room for entertainment, unless the things you do to entertain yourself can be another source of income (maybe you can stream your gameplay and hope people would watch you, or maybe you are one of the lucky people who enjoy their job). I strive to learn new skills, but then I would sacrifice the time I spend with my friends in order to pursue the skills I wanted to learn, jeopardizing my existing connections. Even when I am pursuing a skill that I wanted, I would still be jaded if I kept learning nonstop. **Learning a skill is good for you, but if you don't enjoy the learning process and instead get more stress, is it worth it?**
 

@@ -31,7 +31,6 @@ Prepare your bank account, let's go spend some money :money_with_wings:
 ![shopping gif](https://media.giphy.com/media/l3q2t2KAyvxy9xBe0/giphy-downsized.gif#center)
 ***DISCLAIMERS:***
 - These are affiliate links, so if you do buy from these (for some reason), thank you.
-- Items that I own are not going to be at this page. They might be at ["My recommendations"](/posts/my-recommendations/) if I think they're good.
 - **I DO NOT OWN ANY OF THESE ITEMS** (except the food ones, which I ate them before). Which is why they are in my shopping list.
 
 # Glossary
@@ -77,12 +76,10 @@ In this section I will explain all acronyms/terms, so that readers (including my
 There is fun in enjoying new products, even though you might already have a different product that does the thing you needed. For example, there are going to be many IEMs below, even though you can use EQ(equalizer) to have different sound signatures.
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
-|[AZLA SednaEarfit Crystal for TWS](https://tokopedia.link/DULyBQhefrb)|TWS Eartips|Rp.199.000|A potentially good eartip for my Edifier Neobuds pro. Claims to have good noise isolation.
 |[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that one of my seniorsused. Seems like it comes with a desk clip for the mic.
 |[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand.
 |[Hidizs H2](https://tokopedia.link/Mcvul8rxUpb)|DAC|Rp. 799.000| Accepts a 3.5mm earphone/headphone to make it have a bluetooth connection. Supports aptX and LDAC. If you want to spend more money, you can also go for a [Fiio BTR5](https://tokopedia.link/s26BKpPxUpb), or a [Qudelix 5k](https://tokopedia.link/nZNKjKSxUpb).
-|[Koss KSC75](https://tokopedia.link/exsrbsjYkrb)|On Ear Headphones|Rp. 599.000| I thought this costed 15-20 bucks? Anyway this was recommended by many people, even Crinacle designated it as B-.
 |[Philips SHP9500](https://tokopedia.link/MjWj1WgYkrb)|Open back Headphones|Rp. 1.299.000|One of the best open back headphones under 100 bucks?
 |[Audio Technica ATH-M40x](https://tokopedia.link/cDrYAqszssb)|Closed back Headphones|Rp. 1.349.000|It's Audio Technica, it should be good. The ATH-M50X is also available for 2 mil, but I don't really know the difference besides in price. Some say the hinge is pretty fragile though.
 |[Shure SRH440](https://tokopedia.link/Ff2PtTRzssb)|Closed back Headphones|Rp. 2.499.000|It's Shure, it should be good. Sound signature should be Harman-ish.
@@ -90,11 +87,8 @@ There is fun in enjoying new products, even though you might already have a diff
 |[Sennheiser HD560S](https://tokopedia.link/x4iirLeYkrb)|Open back Headphones|Rp. 3.499.000|Audiophile grade headphones, one step before the Hugh Duhs Six Hundos by Old Mate Senn
 |[Sennheiser HD6xx](https://tokopedia.link/uxoDDqcYkrb)|Open back Headphones|Rp. 4.650.000|HUGH DUHS SIX HUNDOS BY SENN but it's a collab with drop and cheaper than the original
 |[Blon BL-03](https://tokopedia.link/LCd2zh8Assb)|1DD IEM|Rp. 299.000|Probably the cheapest (but still agreed to be good) bassy IEM. Called as "top of the line (TOTL) tuning" by HBB/BGGAR.
-|[Tripowin x HBB Mele](https://tokopedia.link/c6d7SH3Assb)|1DD IEM|Rp. 710.000|A bassy IEM that is a collab with HBB/BGGAR. He really likes his bass, and doesn't like treble. Incidentally, this is his cheapest collab as of writing (but the HBB maka is coming soon)
 |[Tin HiFi T3 Plus](https://tokopedia.link/3Yf8Hmb6wqb)|1DD IEM|Rp. 855.000|IEM with a mild V-shaped tuning.
-|[Moondrop Aria](https://tokopedia.link/10HPLVV5wqb)|1DD IEM|Rp. 1.149.000|IEM with harman-ish tuning. There is a Hatsune Miku design called Moondrop Elven Maiden, which looks cooler in my opinion. There is also a newer one coming soon, the snow edition, that has an etched design instead of paint. It also comes with spring tips. [Here is the link if you are interested](https://tokopedia.link/VINL210rarb).
 |[Dunu Titan S](https://tokopedia.link/mwYPQ4m6wqb)|1DD IEM|Rp. 1.159.000|Similar tuning to the Tin HiFi T3 Plus, but less bassy. The design also looks pretty cool.
-|[Shuoer S12](https://tokopedia.link/GmGo58A6wqb)|Planar IEM|Rp. 2.299.000|A planar IEM with similar signature to 7Hz Timeless, but with more treble (v-shaped?)
 |[7Hz Timeless](https://tokopedia.link/3rxAOwt6wqb)|Planar IEM|Rp. 2.950.000|A planar IEM with neutral tuning and slight bass boost. Has a pretty wacky coin shaped design. Hailed as one of the best planar IEMs.
 |[Xenns Mangird Tea 2](https://tokopedia.link/YSHPCq3nssb)|1DD 6BA IEM|Rp. 4.849.000|An amazing IEM that is endorsed by Gizaudio, HBB/BGGAR, and has a cult following. Sound signature is bassy, no treble shout.
 
