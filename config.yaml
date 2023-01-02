@@ -109,14 +109,10 @@ menu:
       name: wishlist
       url: /posts/shopping-list/
       weight: 1
-    - identifier: good stuff
-      name: good stuff
-      url: /posts/my-recommendations/
-      weight: 2
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 3
+      weight: 2
     - identifier: archive
       name: archive
       url: /archives/
