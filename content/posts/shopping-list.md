@@ -43,13 +43,14 @@ All entries on the product name column can be pressed.
 |[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that one of my seniorsused. Seems like it comes with a desk clip for the mic.
 |[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand.
+|[Dayton IMM-6](https://tokopedia.link/PYAGNYFxxxb)|Calibrated microphone|Rp. 599.000|A microphone that serves as an RTA analyzer. I would like to use it for measuring the frequence response of IEMs I own.
 |[Moondrop Quarks DSP](https://tokopedia.link/IaLaVLb9dwb)|1DD IEM|Rp. 239.000|Quarks but uses USB-C with Digital Signal Processing (DSP). Stay tuned for Moondrop JIU though, the successor of Chu but with DSP.
 |[Tangzeu Wan'Er](https://tokopedia.link/F7xR6xf9dwb)|1DD IEM|Rp. 249.000|Another budget chi-fi flavor of the month, 2022 was wack.
-|[Final Audio E500](https://tokopedia.link/zphG1198dwb)|1DD IEM|Rp. 449.000|A bullet style IEM from Final Audio, a brand from Japan (did you know Audio Technica is also from Japan?). Neutral and relaxed tuning, comes with a full set of Final Audio type E tips (considered to be good). The only downside is that cable is not detachable.
 |[Tin HiFi C2](https://tokopedia.link/oH0iszd9dwb)|1DD IEM|Rp. 459.000|A budget offering from Tin HiFi, a hit or miss. Super* Reviews like them, Timmy from GizAudio doesn't.
 |[Blon BL-03](https://tokopedia.link/LCd2zh8Assb)|1DD IEM|Rp. 299.000|Probably the cheapest (but still agreed to be good) bassy IEM. Tripowin Mele is more expensive and the bass is a bit too much.
 |[Kiwi Ears Cadenza](https://tokopedia.link/HLHTnOk9dwb)|1DD IEM|Rp. 560.000|I'll be honest, the reason I want these is because of the looks. It looks so cool. Sound profile is (supposedly) very good too.
 |[Truthears Hexa](https://tokopedia.link/2MEXMCGbgwb)|1DD 3BA IEM|Rp. 1.950.000*|Referred to some as "budget Blessing2" (Blessing2 itself costs 4.5mil). If you are interested in buying one though, it is cheaper to buy it from AliExpress (like 500k cheaper)
+|[Sennheiser IE200](https://tokopedia.link/YUL5BUDxxxb)|1DD IEM|Rp. 2.600.000|A cheaper IE600, which should be amazing in theory.
 
 
 # Keyboard & accessories
