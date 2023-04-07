@@ -3,7 +3,7 @@ title: "Final Audio E500 Review" # change this
 date: 2023-02-19T14:30:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
 # weight: 1
 # aliases: ["/first"]
-tags: ["audio", "tech"] # change this
+tags: ["audio", "tech", "review"] # change this
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
