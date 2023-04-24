@@ -40,16 +40,13 @@ There is fun in enjoying new products, even though you might already have a diff
 All entries on the product name column can be pressed.
 |Product Name|Type|Price|Notes|
 |-|-|-|-|
-|[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that one of my seniorsused. Seems like it comes with a desk clip for the mic.
+|[NYK Nemesis MCN-05](https://tokopedia.link/NH2PqaRefrb)|USB microphone|Rp. 379.000|A USB microphone that one of my seniors used. Seems like it comes with a desk clip for the mic.
 |[Thronmax Pulse M8](https://tokopedia.link/VCqB13Zffrb)|USB microphone|Rp. 449.000| A USB microphone that Mr. DankPods featured on his cheap USB microphone roundup.
 |[Fantech Leviosa MCX01](https://tokopedia.link/WVcHhI7wUpb)|USB microphone|Rp. 539.000|A USB microphone from an Indonesian gaming brand.
-|[Dayton IMM-6](https://tokopedia.link/PYAGNYFxxxb)|Calibrated microphone|Rp. 599.000|A microphone that serves as an RTA analyzer. I would like to use it for measuring the frequence response of IEMs I own.
-|[Moondrop Quarks DSP](https://tokopedia.link/IaLaVLb9dwb)|1DD IEM|Rp. 239.000|Quarks but uses USB-C with Digital Signal Processing (DSP). Stay tuned for Moondrop JIU though, the successor of Chu but with DSP.
 |[Tangzeu Wan'Er](https://tokopedia.link/F7xR6xf9dwb)|1DD IEM|Rp. 249.000|Another budget chi-fi flavor of the month, 2022 was wack.
 |[Tin HiFi C2](https://tokopedia.link/oH0iszd9dwb)|1DD IEM|Rp. 459.000|A budget offering from Tin HiFi, a hit or miss. Super* Reviews like them, Timmy from GizAudio doesn't.
 |[Blon BL-03](https://tokopedia.link/LCd2zh8Assb)|1DD IEM|Rp. 299.000|Probably the cheapest (but still agreed to be good) bassy IEM. Tripowin Mele is more expensive and the bass is a bit too much.
 |[Kiwi Ears Cadenza](https://tokopedia.link/HLHTnOk9dwb)|1DD IEM|Rp. 560.000|I'll be honest, the reason I want these is because of the looks. It looks so cool. Sound profile is (supposedly) very good too.
-|[Truthears Hexa](https://tokopedia.link/2MEXMCGbgwb)|1DD 3BA IEM|Rp. 1.950.000*|Referred to some as "budget Blessing2" (Blessing2 itself costs 4.5mil). If you are interested in buying one though, it is cheaper to buy it from AliExpress (like 500k cheaper)
 |[Sennheiser IE200](https://tokopedia.link/YUL5BUDxxxb)|1DD IEM|Rp. 2.600.000|A cheaper IE600, which should be amazing in theory.
 
 
@@ -72,9 +69,6 @@ Tech-related stuff (monitor, PC parts, cables, mice, smart wearables, VR headset
 - [SDVX mini controller](https://tokopedia.link/Bn8lnP9Assb) I used to play Sound Voltex a lot, but I rarely play it now because the nearest arcade that has Sound Voltex is like 16.5km away. This is a mini controller, that can be used with either Sound Voltex cloud or K-Shoot Mania
 ![big](https://images.tokopedia.net/img/cache/900/VqbcmM/2021/5/23/389a65a4-54db-4b0c-9c75-5981b97c19b7.jpg#center)
 - [SDVX entry level controller](https://tokopedia.link/AO8pvxjBssb) Another Sound Voltex controller that is bigger. The size is accurate to the ones at the arcade.
-![Quest2](https://images.tokopedia.net/img/cache/300/product-1/2020/9/17/2016579/2016579_a1ae4d30-8fda-4ebd-b278-75aaffd7cb06_2000_2000#center)
-- [Oculus Quest 2](https://tokopedia.link/J77v2DwyUpb) As I said in my first post, I like rhythm games. To experience beat saber, I need to get a VR kit that uses a computer or get a standalone VR console like the Oculus Quest 2. Other alternatives should be welcome if I can find them.
-- I'm planning on getting a PC later, maybe using an RTX 4060 a few months after the release date, and also wait for DDR5 to be mainstream, as well as Ryzen 5000 series.
 
 # Food
 ![Oven cooked white potato chips](https://images.tokopedia.net/img/cache/300/product-1/2020/6/16/98869546/98869546_8eca1dfe-9bf2-48f9-a197-5484a66ae017_1000_1000#center)
