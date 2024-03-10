@@ -88,4 +88,21 @@ I slept on 10 - 12 PM, and then 2 - 5 AM because I couldn't sleep. It might be b
 # January 13 (Nasal irrigation)
 I decided to write this blog on this date, because my energy levels are quite good. The ENT doctor told me that I can do nasal irrigation starting from today. After doing it for the first time, I felt that my nose is more blocked/bloated. I was not allowed to blow my nose, so some of the water felt like it was stuck. The snot production was high today, or it might be the sodium chloride solution mixing with my yellow snot.
 
-I will update this page as time goes. Not all dates will be documented, only dates with significant changes.
+# January 15 (First day of work)
+I decided to go to work because my body feels somewhat fine. My throat still hurts from swallowing any food and drink, and my nose hurts from wearing a medical face mask (any touch to my nose hurts).
+
+# January 18 (First scheduled appointment)
+Finally, I had a scheduled appointment with my ENT doctor. She looked inside my nose using an endoscope, and decided to clean up my nose using a vacuum, as well as nasal tongs for the solid dried up blood. She also inserted some cotton that was dipped in medicine into my nose. It was inserted to my nose, but my mouth/throat can feel the bitterness. 15 minutes later, the cotton was removed and she gave me some meds. I had some nosebleed, but my doctor told me it was normal, so I had to suck it up and use tissue to wipe off the blood that comes out of my nose.
+
+# January 30 (Second scheduled appointment)
+I met up with my ENT doctor again. My nose is feeling way better, but according to the nasal endoscopy, there were still some wounds inside my nose. Nasal tongs were used to remove some dried blood from my nose (the extraction hurts), and then my nose got vacuumed. After the tongs were used, my nose feels bruised again, and some blood came out as well. Again, this was supposed to be normal, and the bleeding stopped in less than an hour. My nose still feels hurt to touch, but this only lasted a few days.
+
+Next scheduled appointment was on the 13th of February, but on that date, the registration desk told me that the quota for the ENT doctor is already full, so I had to come back next time. There was a lot of stuff going on at work, so I decided to go on next Thursday (February 22).
+
+# February 22 (Final scheduled appointment)
+One more nasal endoscopy later, and my doctor declared that the insides of my nose is fully healed. She gave me a letter so that I can schedule an appointment if needed, but honestly I don't want to use my annual leave for a doctor's appointment unless it is really a must.
+
+# Conclusion
+I still blow my nose a lot, but no liquid came out. Not much mucus comes out, but my nose still feels irritated a lot. This is probably caused by allergies, or maybe I have nonallergic rhinitis. Either way, one half of my problem was solved (overproduction of mucus), but the other half is still not (still blowing a lot, feeling congested/irritated).
+
+My advice? Don't do a nose surgery unless you ***REALLY*** need it. The first week is a hell that I do not want to experience again.
