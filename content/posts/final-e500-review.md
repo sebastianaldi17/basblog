@@ -1,19 +1,13 @@
 ---
-title: "Final Audio E500 Review" # change this
+title: "Final Audio E500 Review"
 date: 2023-02-19T14:30:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["audio", "tech", "review"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["audio", "tech", "review"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "A dead neutral IEM for cheap." # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+description: "A dead neutral IEM for cheap."
 disableShare: false
 disableHLJS: false
 hideSummary: false

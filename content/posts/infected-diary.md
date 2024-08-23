@@ -1,19 +1,13 @@
 ---
 title: "Infected Diary"
 date: 2022-07-22T18:30:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "A diary of when I was infected by a certain disease with the suffix -19"
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

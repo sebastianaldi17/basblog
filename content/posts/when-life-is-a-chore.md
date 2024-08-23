@@ -1,19 +1,13 @@
 ---
 title: "When Life Is a Chore"
 date: 2022-05-28T12:25:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life", "thoughts"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Something I needed to get off my chest."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

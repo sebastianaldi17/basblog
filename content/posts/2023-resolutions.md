@@ -1,19 +1,13 @@
 ---
-title: "2023 Resolutions" # change this
+title: "2023 Resolutions"
 date: 2023-01-01T00:00:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["life", "resolutions"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["life", "resolutions"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "今年もよろしくお願いします" # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+description: "今年もよろしくお願いします"
 disableShare: false
 disableHLJS: false
 hideSummary: false
