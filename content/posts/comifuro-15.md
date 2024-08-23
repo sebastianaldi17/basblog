@@ -1,19 +1,13 @@
 ---
 title: "Comifuro 15 (Day 1) Review"
 date: 2022-09-24T21:30:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life", "anime"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Nothing happened in Comifuro 15, 24 September 2022. Absolutely nothing."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

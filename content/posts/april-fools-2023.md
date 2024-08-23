@@ -1,19 +1,13 @@
 ---
 title: "Life update" # change this
 date: 2023-04-01T07:30:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["life"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["life"]
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Just a quick update on what's going on and what's next" # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

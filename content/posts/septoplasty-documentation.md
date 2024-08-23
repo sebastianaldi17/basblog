@@ -1,19 +1,13 @@
 ---
-title: "Septoplasty: Pre and Post-surgery" # change this
+title: "Septoplasty: Pre and Post-surgery"
 date: 2024-01-13T16:00:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["life"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["life"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "A description of what I have went through before and after surgery" # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+description: "A description of what I have went through before and after surgery"
 disableShare: false
 disableHLJS: false
 hideSummary: false

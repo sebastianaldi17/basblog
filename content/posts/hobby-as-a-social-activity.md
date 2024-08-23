@@ -1,19 +1,13 @@
 ---
 title: "HaaSA: Hobby as a Social Activity"
 date: 2022-07-02T20:30:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life", "keyboard", "tech"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "A two part story, that consists of a failed mechanical keyboard mod and a laptop cleaning"
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

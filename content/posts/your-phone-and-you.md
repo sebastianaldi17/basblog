@@ -1,19 +1,13 @@
 ---
-title: "Your Phone and You" # change this
+title: "Your Phone and You"
 date: 2022-12-02T21:00:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["life", "thoughts", "tech"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["life", "thoughts", "tech"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "How much do you rely on your phone?" # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+description: "How much do you rely on your phone?"
 disableShare: false
 disableHLJS: false
 hideSummary: false

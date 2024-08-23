@@ -1,19 +1,13 @@
 ---
 title: "My First \"Game\""
 date: 2022-05-26T10:00:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["game", "tech"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "By game I mean me following a Unity game development course and not doing anything creative with it."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

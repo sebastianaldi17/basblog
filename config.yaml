@@ -20,8 +20,6 @@ params:
   title: BasBlog
   description: "Sebastian's persoal blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -41,8 +39,6 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
     favicon: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
     favicon16x16: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
     favicon32x32: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
@@ -87,11 +83,6 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  editPost:
-    URL: "https://github.com/sebastianaldi17/basblog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -122,13 +113,4 @@ outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+        - JSON

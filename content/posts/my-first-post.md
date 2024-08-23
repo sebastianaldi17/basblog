@@ -1,19 +1,13 @@
 ---
 title: "First Post, Third Website"
 date: 2022-04-03T11:30:03+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Returning to making a personal website for the third time."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

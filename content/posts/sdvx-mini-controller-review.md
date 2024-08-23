@@ -1,19 +1,13 @@
 ---
-title: "3D Printed Pocket Voltex Review" # change this
+title: "3D Printed Pocket Voltex Review"
 date: 2023-04-02T19:40:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-# weight: 1
-# aliases: ["/first"]
-tags: ["review", "tech", "life"] # change this
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["review", "tech", "life"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Definitely a review, and not a descent into insanity." # change this
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+description: "Definitely a review, and not a descent into insanity."
 disableShare: false
 disableHLJS: false
 hideSummary: false

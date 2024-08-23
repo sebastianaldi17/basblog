@@ -1,19 +1,13 @@
 ---
 title: "Hosting A Starbound Server"
 date: 2022-04-30T21:00:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["tech"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Dealing with a server with memory leaks"
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

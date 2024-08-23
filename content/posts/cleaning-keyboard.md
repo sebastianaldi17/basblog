@@ -1,19 +1,13 @@
 ---
 title: "Cleaning my keyboard"
 date: 2022-04-15T15:00:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["life", "keyboard"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Using my holiday to clean my keyboard."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

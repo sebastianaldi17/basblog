@@ -1,19 +1,13 @@
 ---
 title: "Trying out blender"
 date: 2022-06-10T19:50:00+07:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["tech", "life"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "\"Wouldn't it be great if we can make our own 3D assets?\" said a naive programmer."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
