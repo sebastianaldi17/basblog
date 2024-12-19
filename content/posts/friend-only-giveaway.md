@@ -45,7 +45,7 @@ I used the keycaps, but there are some spare & some left over. Storing it takes 
 ![mic](/Images/FriendOnlyGiveaway/lavaliermic.jpg)
 I honestly prefer using earphones with microphone on them rather than having a separate mic. Just a preference thing.
 
-## Tecgear Beam Light Bar
+## Tecgear Beam Light Bar [reserved]
 ![lightbar](/Images/FriendOnlyGiveaway/lightbar.jpg)
 I bought this in hopes of "reducing the brightness" of my monitor. AOC monitors are way too bright, even in the lowest brightness setting. It didn't help, so if any of you wants a light bar, be my guest.
 
@@ -53,15 +53,15 @@ I bought this in hopes of "reducing the brightness" of my monitor. AOC monitors 
 ![eyecam](/Images/FriendOnlyGiveaway/ps3eyecam.jpg)
 Bought this for recording hand cameras during VSRG gameplay (e.g. osu!mania), but I moved on. Requires a propietary driver, kind of a pain to setup. Can record up to 120fps, but I'm not interested in content creation.
 
-## Vortexseries VX8
+## Vortexseries VX8 [reserved]
 ![vx8](/Images/FriendOnlyGiveaway/vx8.jpg)
 A keyboard that is a keyboard of that time. Switches are not hot-swappable (requires solder to remove the switch), USB cable is not detachable, no wireless support. I have 2 other spare keyboards, so this keyboard is truly obsolete.
 
-## KZ EDA
+## KZ EDA [reserved]
 ![eda](/Images/FriendOnlyGiveaway/kzeda.jpg)
 This "earbud" is actually 3 set of earbuds. Each color has a different sound signature. Black is bassy, transparent is balaned, green is bright. They're good, but I have too much earbuds and have decided to move on from this hobby.
 
-## Moondrop Chu 1
+## Moondrop Chu 1 [reserved]
 ![chu](/Images/FriendOnlyGiveaway/moondropchu1.jpg)
 A good balanced earbud, but cable is not detachable (unlike the newer chu 2).
 
@@ -69,6 +69,6 @@ A good balanced earbud, but cable is not detachable (unlike the newer chu 2).
 ![qkzxhbb](/Images/FriendOnlyGiveaway/qkzxhbb.jpg)
 A good bassy earbud, but I don't really like bassy earbuds.
 
-## Truthear Zero (Blue)
+## Truthear Zero (Blue) [reserved]
 ![zeroblue](/Images/FriendOnlyGiveaway/truthearzero.jpg)
 Harman target earbuds that are too big for my earlobes. The nozzle size is approximately ~6.7mm.
