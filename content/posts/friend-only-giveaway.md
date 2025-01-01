@@ -29,6 +29,22 @@ I have a lot of stuff that I don't use anymore, so I decided to let you guys kno
 # The items
 Below are the list of items & a quick reason why I'm giving it away.
 
+## Oral B Pro 500
+![oralb](/Images/FriendOnlyGiveaway/oralb.jpg)
+I bought an electric toothbrush to clean my teeth better, but it did more harm than good. The battery life sucks, the 30 second timer is not enough to clean a quadrant, and I feel like my teeth is not as clean as brushing it manually. If any of you want it, make sure to buy a new toothbrush head.
+
+## Fake PS4 Controller
+![ds4](/Images/FriendOnlyGiveaway/ds4.jpg)
+I use an 8bitdo controller, so I don't need this anymore. Works with DS4Win.
+
+## Edifier Neobuds Pro (one side broken)
+![neobuds](/Images/FriendOnlyGiveaway/neobuds.jpg)
+One side is broken (won't connect, even after resetting), so feel free to get it fixed in a service center. I now use a WF-1000XM5.
+
+## Logitech G304 (double click issue)
+![g304](/Images/FriendOnlyGiveaway/g304.jpg)
+The famous left click issue happened to my mouse, and I can't be bothered to fix it.
+
 ## Dayton iMM-6 Calibrated Measurement Microphone
 ![iMM-6](/Images/FriendOnlyGiveaway/imm6.jpg)
 I used to be a huge earbuds maniac, but I realized that I can't really hear the subtle differences that much. I got a calibrated mic to measure the earbuds, but they need a tube to prevent outside noise from interfering with it. I ended up not using it at all.
