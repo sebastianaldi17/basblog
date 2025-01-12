@@ -39,11 +39,11 @@ params:
   tocopen: false
 
   assets:
-    favicon: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
-    favicon16x16: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
-    favicon32x32: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
-    apple_touch_icon: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
-    safari_pinned_tab: "https://raw.githubusercontent.com/sebastianaldi17/React-Personal-Site/main/public/favicon.ico"
+    favicon: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
+    favicon16x16: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
+    favicon32x32: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
+    apple_touch_icon: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
+    safari_pinned_tab: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
 
   label:
     text: "BasBlog"
@@ -69,8 +69,8 @@ params:
     Content: My name is Sebastian Aldi, and welcome to my blog.
 
   socialIcons:
-    - name: hackerrank
-      url: https://www.hackerrank.com/sebastian_aldi17
+    - name: other
+      url: "https://www.sebastianaldi.com/"
     - name: instagram
       url: "https://www.instagram.com/bas_or_aldi/"
     - name: linkedin
