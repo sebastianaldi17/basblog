@@ -1,6 +1,5 @@
 baseURL: "https://basblog.netlify.app/"
 title: BasBlog
-paginate: 5
 theme: PaperMod
 
 enableEmoji: true
@@ -44,6 +43,7 @@ params:
     favicon32x32: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
     apple_touch_icon: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
     safari_pinned_tab: "https://raw.githubusercontent.com/sebastianaldi17/personal-site/refs/heads/main/public/favico.png"
+    disableFingerprinting: true
 
   label:
     text: "BasBlog"
