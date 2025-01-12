@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: true
 buildExpired: false
 
-googleAnalytics: ***REMOVED***
+googleAnalytics: GA-123
 
 minify:
   disableXML: true
