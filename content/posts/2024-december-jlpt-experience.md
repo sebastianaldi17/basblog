@@ -58,4 +58,9 @@ Tip: check your spam folder for the exam location & time email, it was on my spa
 - Phones and digital / smart watches are not allowed (you can store them in your bag). If any of them rings/vibrates during the exam, you will be immediately disqualified. If you are paranoid about time, bring an analog watch
 
 # After the exam
-Congratulations on finishing the exam & not getting disqualified! Now we wait for 2 months for the results. I will update this page once I got my results.
+Congratulations on finishing the exam & not getting disqualified! Now we wait for 2 months for the results.
+
+# Results announcement
+The results were announced on the 31st of January, 2025. If you try to visit it the minute the results are out, you will probably see errors because the servers are not equipped for it. After all, it is not just for your country, but other countries result use the same webpage.
+
+If you pass, you can expect to take the certificate between end of March - April. I will detail my experience of taking the physical certificate later.
