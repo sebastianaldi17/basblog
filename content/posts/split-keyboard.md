@@ -1,10 +1,10 @@
 ---
 title: "My 1 month experience of using a split keyboard"
-date: 2025-02-09T22:00:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
+date: 2025-02-10T13:00:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
 tags: ["life", "tech"]
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Buying a split keyboard just for the sake of trying it out"
@@ -16,7 +16,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://keebd.com/cdn/shop/files/lily58-pro-black-1.png?v=1693775679" # change with my own keyboard photo
+    image: "/Images/SplitKeyboard/thumbnail.jpg"
     alt: "keyboard" # alt text
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -30,11 +30,14 @@ I only realized after receiving the barebones keyboard, that split keyboards req
 # Configuring
 Configuring it can be done without any driver, just head towards [VIA](https://www.caniusevia.com/) and set the layers & keys to whatever you want. These are my layer configurations:
 
-![]()
+![l0](/Images/SplitKeyboard/layer0.png)
+Layer 0, the layout without holding any of the layer change button
 
-![]()
+![l1](/Images/SplitKeyboard/layer1.png)
+Layer 1, triggered if the MO(1) (which can be found at the down arrow key keycap's location) key is held.
 
-![]()
+![l2](/Images/SplitKeyboard/layer2.png)
+Layer 2, triggeres if the MO(2) (which can be found at the up arrow key keycap's location) key is held.
 
 # Adapting
 Buying a split keyboard really highlighted my bad typing habits. For example, I type the letter 'Y' using my left hand, but since it is split, the 'Y' is on the right side of the split. I also noticed that I don't use my thumbs, pinky finger, and ring finger. My typing style was only using 4 fingers all along.
