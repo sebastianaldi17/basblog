@@ -30,7 +30,7 @@ Back when I made [MaiFavorite/MaiChart](https://github.com/sebastianaldi17/maifa
 
 With the release of BUDDiES PLUS version, the first point is redundant because you can have up to 30 favorite songs, and it will actually show up on the arcade cabinet when you play. The rating calculator seems to be an only me thing, because other people would just use the "Recommended based on rating" category in the arcade cabinet as well. With that in mind, I wanted to remake the website, using a different stack in order to be a learning experience for myself.
 
-# The stack I chose
+# Chosen tech stack
 There are some things that I wanted to explore, even if it is not the perfect fit for the job. Since this is for exploration only, I want to look for services that are free, and then connect them all together. These are what I used:
 
 ## MongoDB (database)
