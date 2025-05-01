@@ -63,4 +63,7 @@ Congratulations on finishing the exam & not getting disqualified! Now we wait fo
 # Results announcement
 The results were announced on the 31st of January, 2025. If you try to visit it the minute the results are out, you will probably see errors because the servers are not equipped for it. After all, it is not just for your country, but other countries result use the same webpage.
 
-If you pass, you can expect to take the certificate between end of March - April. I will detail my experience of taking the physical certificate later.
+If you pass, you can expect to take the certificate between end of March - April.
+
+# Taking the certificate
+You will need to take the certificate at your exam location's committee. The certificate is available for [pick up](https://jlptonline.or.id/news/pengambilan-sertifikat-jlpt-desember-2024) from April 15th, 2025. Since the results were announced on the 31st of January, it took approximately 2 and a half months. You will need to hand over your exam card / test voucher, and you will receive your results and the certificate.
