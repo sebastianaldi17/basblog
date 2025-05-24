@@ -1,7 +1,7 @@
 ---
 title: "MaiSocial - Part 2"
 date: 2025-03-27T21:25:00+07:00 # change this, format is yyyy-mm-ddThh:mm:ssZhh:hh
-tags: ["life"]
+tags: ["tech"]
 showToc: true
 TocOpen: false
 draft: false
@@ -18,7 +18,6 @@ ShowPostNavLinks: true
 cover:
     image: "/Images/MaiSocial/thumbnail-part-2.png" # image path/url
     alt: "thumbnail" # alt text
-    caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
