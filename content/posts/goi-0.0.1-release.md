@@ -76,7 +76,7 @@ Since my frontend project uses Next.js, might as well use [Vercel](https://verce
 # What's next
 Since this is a personal curated list of mine, the list will grow slowly based on when I decide to expand them. Based on the levels, these are my plans for the future:
 
-- N5: Thirdy priority
+- N5: Third priority
 - N4: Second priority
 - N3: Alongside N2, will be main priority
 - N2: Alongside N3, will be main priority
