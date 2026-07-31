@@ -7,7 +7,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "This is the subtitle, TODO: Change your subtitle for the new post"
+description: "Nothing is secure within a reality of torment - Incarnation of Dread (PoE 1 boss)"
 disableShare: false
 disableHLJS: false # highlight.js syntax highlighter
 hideSummary: false
